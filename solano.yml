@@ -1,1 +1,8 @@
-script: "./build.sh"
+pipeline:
+  step1: step2
+  
+steps:
+  step1:
+    script: echo 'step1'
+  step2:
+    script: echo 'step2'
