@@ -3,6 +3,6 @@ pipeline:
   
 steps:
   step1:
-    script: echo 'step1'
+    script: echo 'step1 PR!'
   step2:
     script: echo 'step2'
