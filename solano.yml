@@ -3,6 +3,6 @@ pipeline:
   
 steps:
   step1:
-    script: echo 'step1s'
+    script: echo 'step1'
   step2:
     script: echo 'step2'
